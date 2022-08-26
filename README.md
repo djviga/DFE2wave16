@@ -9,3 +9,6 @@ DFE BootCamp - Class 29 - Data Testing
 
 - Extra material: www.w3schools.com/python/python_try_except.asp 
 
+
+- Last Dataset link (DetailedStatsWithVisualization): https://raw.githubusercontent.com/guipsamora/pandas_exercises/master/07_Visualization/Online_Retail/Online_Retail.csv
+
